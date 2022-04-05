@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist-ssr
+*.local
+.history
+.vscode
+.env.development
+.temp
+package-lock.json

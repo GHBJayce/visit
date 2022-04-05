@@ -1,0 +1,21 @@
+{
+  "name": "git-viewer",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "ant-design-vue": "^2.2.8",
+    "axios": "^0.26.1",
+    "j-weapons": "^1.5.0",
+    "moment": "^2.29.1",
+    "rollup-plugin-external-globals": "^0.6.1",
+    "vite": "^2.8.0",
+    "vue-axios": "^3.4.1",
+    "vue": "^3.2.25"
+  }
+}
